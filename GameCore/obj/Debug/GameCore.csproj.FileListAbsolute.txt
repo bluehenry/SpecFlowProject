@@ -1,0 +1,9 @@
+D:\WorkSpace\CSharp\GameCore.Specs\GameCore\bin\Debug\GameCore.dll.config
+D:\WorkSpace\CSharp\GameCore.Specs\GameCore\bin\Debug\GameCore.dll
+D:\WorkSpace\CSharp\GameCore.Specs\GameCore\bin\Debug\GameCore.pdb
+D:\WorkSpace\CSharp\GameCore.Specs\GameCore\bin\Debug\ImpromptuInterface.dll
+D:\WorkSpace\CSharp\GameCore.Specs\GameCore\bin\Debug\SpecFlow.Assist.Dynamic.dll
+D:\WorkSpace\CSharp\GameCore.Specs\GameCore\bin\Debug\TechTalk.SpecFlow.dll
+D:\WorkSpace\CSharp\GameCore.Specs\GameCore\bin\Debug\ImpromptuInterface.xml
+D:\WorkSpace\CSharp\GameCore.Specs\GameCore\obj\Debug\GameCore.dll
+D:\WorkSpace\CSharp\GameCore.Specs\GameCore\obj\Debug\GameCore.pdb

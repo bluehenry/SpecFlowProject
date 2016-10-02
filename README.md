@@ -1,0 +1,1 @@
+GameCore.Specs project is a c# sample project get from Pluralsight course 'Business Readable Automated Tests with SpecFlow 2.0'
